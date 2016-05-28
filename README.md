@@ -13,4 +13,4 @@ ist das Build-Script in ein eigenes Repo
 ausgelagert.
 
 
-Die Domaene-07 ist für Noerdlingen und Umgebung.
+Die Domaene-07 ist für Wemding und Umgebung.
