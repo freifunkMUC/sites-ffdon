@@ -13,4 +13,4 @@ ist das Build-Script in ein eigenes Repo
 ausgelagert.
 
 
-Die Domaene-03 ist derzeit master und für Donauwörth und Umgebung.
+Die Domaene-09 ist für Bäumenheim und Umgebung.
