@@ -13,4 +13,4 @@ ist das Build-Script in ein eigenes Repo
 ausgelagert.
 
 
-Die Domaene-13 ist für Harburg und Umgebung.
+Die Domaene-19 ist für das Umland des Donau-Ries
