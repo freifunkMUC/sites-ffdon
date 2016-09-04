@@ -27,6 +27,7 @@ GLUON_SITE_PACKAGES := \
         gluon-tunneldigger-watchdog \
         gluon-migrate-vpn \
         iwinfo
+        gluon-authorized-keys
          
 GLUON_PRIORITY ?= 3
 GLUON_LANGS ?= de
