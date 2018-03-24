@@ -1,4 +1,5 @@
 GLUON_SITE_PACKAGES := \
+        gluon-alfred \
         gluon-respondd\
 	gluon-autoupdater \
 	gluon-config-mode-autoupdater \
